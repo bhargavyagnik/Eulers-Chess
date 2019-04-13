@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/trial2.py" line="282" mnemonic="5" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f49b5d6-06ff-4386-a533-5ffa832d6a1e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test1$trial.coverage" NAME="trial Coverage Results" MODIFIED="1554742830106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3152">
+              <caret line="197" column="89" selection-start-line="197" selection-start-column="8" selection-end-line="197" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trial3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9360">
+              <caret line="586" selection-start-line="586" selection-end-line="586" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trial2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7072">
+              <caret line="443" column="23" selection-start-line="443" selection-start-column="23" selection-end-line="443" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/trial4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="356" column="12" selection-start-line="356" selection-start-column="12" selection-end-line="356" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chess AI - new.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6976">
+              <caret line="437" column="12" selection-start-line="437" selection-start-column="12" selection-end-line="437" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getPossibleMoves</find>
+      <find>num_moves</find>
+      <find>COunter</find>
+      <find>lookfor</find>
+      <find>con</find>
+      <find>ra_chess</find>
+      <find>display_possible_moves</find>
+      <find>l</find>
+      <find>BoardLayout</find>
+      <find>game_ex</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/trial.py" />
+        <option value="$PROJECT_DIR$/Chess 2p -.py" />
+        <option value="$PROJECT_DIR$/venv/trial2.py" />
+        <option value="$PROJECT_DIR$/trial3.py" />
+        <option value="$PROJECT_DIR$/trial2.py" />
+        <option value="$PROJECT_DIR$/Chess AI - new.py" />
+        <option value="$PROJECT_DIR$/trial4.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="974" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chess AI - new.py" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="test1" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="test1" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="trial" type="PythonConfigurationType" factoryName="Python">
+      <module name="test1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trial4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f49b5d6-06ff-4386-a533-5ffa832d6a1e" name="Default Changelist" comment="" />
+      <created>1547748830590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547748830590</updated>
+      <workItem from="1547748833604" duration="1401000" />
+      <workItem from="1547972690709" duration="759000" />
+      <workItem from="1549024401460" duration="618000" />
+      <workItem from="1549535615118" duration="1526000" />
+      <workItem from="1549698063523" duration="389000" />
+      <workItem from="1549807042426" duration="5374000" />
+      <workItem from="1550227329384" duration="1430000" />
+      <workItem from="1550229321963" duration="56000" />
+      <workItem from="1550252215195" duration="52000" />
+      <workItem from="1550258734022" duration="2292000" />
+      <workItem from="1550292035085" duration="8818000" />
+      <workItem from="1550301103756" duration="386000" />
+      <workItem from="1550307266242" duration="1933000" />
+      <workItem from="1550313872592" duration="149000" />
+      <workItem from="1550315430389" duration="1692000" />
+      <workItem from="1550321556651" duration="7778000" />
+      <workItem from="1550329556990" duration="63000" />
+      <workItem from="1550335854128" duration="1994000" />
+      <workItem from="1550337991293" duration="4245000" />
+      <workItem from="1550463302887" duration="395000" />
+      <workItem from="1550772535739" duration="92000" />
+      <workItem from="1550822728647" duration="3563000" />
+      <workItem from="1550841593803" duration="153000" />
+      <workItem from="1550899233429" duration="425000" />
+      <workItem from="1550911510195" duration="47000" />
+      <workItem from="1550917190170" duration="598000" />
+      <workItem from="1550933697579" duration="1318000" />
+      <workItem from="1550990502118" duration="55000" />
+      <workItem from="1550997314343" duration="112000" />
+      <workItem from="1550997448718" duration="78000" />
+      <workItem from="1550997554007" duration="52000" />
+      <workItem from="1550997714217" duration="63000" />
+      <workItem from="1550997989901" duration="497000" />
+      <workItem from="1551000507229" duration="461000" />
+      <workItem from="1551002210166" duration="610000" />
+      <workItem from="1554125369842" duration="727000" />
+      <workItem from="1554208769746" duration="1809000" />
+      <workItem from="1554215824794" duration="516000" />
+      <workItem from="1554233831530" duration="8965000" />
+      <workItem from="1554263692425" duration="5241000" />
+      <workItem from="1554270046456" duration="6810000" />
+      <workItem from="1554278133850" duration="1486000" />
+      <workItem from="1554354945091" duration="177000" />
+      <workItem from="1554356912021" duration="1042000" />
+      <workItem from="1554358328899" duration="1350000" />
+      <workItem from="1554401845518" duration="18474000" />
+      <workItem from="1554475119169" duration="748000" />
+      <workItem from="1554483326841" duration="7062000" />
+      <workItem from="1554532084792" duration="726000" />
+      <workItem from="1554547677455" duration="991000" />
+      <workItem from="1554556272849" duration="8742000" />
+      <workItem from="1554576871916" duration="9000" />
+      <workItem from="1554620875464" duration="184000" />
+      <workItem from="1554621216554" duration="17000" />
+      <workItem from="1554668071718" duration="16106000" />
+      <workItem from="1554695888366" duration="681000" />
+      <workItem from="1554726001262" duration="1015000" />
+      <workItem from="1554742621411" duration="671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="133023000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="863" y="0" width="882" height="946" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49862638" visible="true" weight="0.39563107" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50137365" side_tool="true" weight="0.18053098" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.036452007" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9244838" weight="0.17546013" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.399757" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.075516224" side_tool="true" weight="0.5309842" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49970502" weight="0.32928312" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/chess/chess/Sample-.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1073">
+          <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chess 2p -.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/trial2.py" />
+    <entry file="file://D:/logo-3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="260" selection-start-line="260" selection-end-line="260" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3152">
+          <caret line="197" column="89" selection-start-line="197" selection-start-column="8" selection-end-line="197" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trial3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9360">
+          <caret line="586" selection-start-line="586" selection-end-line="586" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trial2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7072">
+          <caret line="443" column="23" selection-start-line="443" selection-start-column="23" selection-end-line="443" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chess AI - new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6976">
+          <caret line="437" column="12" selection-start-line="437" selection-start-column="12" selection-end-line="437" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trial4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="356" column="12" selection-start-line="356" selection-start-column="12" selection-end-line="356" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
