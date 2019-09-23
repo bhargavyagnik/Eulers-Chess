@@ -19,6 +19,11 @@ There are 10^120 Moves in Chess and for reference my Chess Code calculates Somew
 We used Min-Max Algorithm to solve this problem also added weights to all the pieces on the game on the basis of their degree of Freedom in that position. PyGame was used as the frontend and simple mouse  drags can be used to play the game. The Game is a bit slow as it has a depth first search for the MIN-MAX algorithm in it .
 
 These are the weights 
+```
+bash
+pip install python-chess
+```
+This is needed as Python chess is too helpful to get the Chess notations and also getting positions and all possible moves. This reduces the task to an extent that we believe would save your months.
 ```python
 pawn_table = [0, 0, 0, 0, 0, 0, 0, 0,
               50, 50, 50, 50, 50, 50, 50, 50,
