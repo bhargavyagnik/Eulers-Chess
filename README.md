@@ -29,7 +29,7 @@ Other Important Packages are pygame
 ```bash
 pip install pygame
 ```
-
+Adding the Given Weights.
 ```python
 pawn_table = [0, 0, 0, 0, 0, 0, 0, 0,
               50, 50, 50, 50, 50, 50, 50, 50,
