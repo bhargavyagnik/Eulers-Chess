@@ -93,3 +93,5 @@ king_endgame_table = [-50, -40, -30, -20, -20, -30, -40, -50,
 If this Repo gets 100 stars I assure you I'll make an effort to use Reinforcement Learning in this project so please do help...!
 Or one can implement Alpha Pruning to better the outputs in less time.
 
+It runs on the min max algorithm
+![](https://i.ytimg.com/vi/NVJcWNsXZps/maxresdefault.jpg)
